@@ -4,8 +4,7 @@ I personally like working with Python and still learning on Javascript Framework
 
 Majority of my repositories are on my alternate github account (for my university work) and/or private, henceforth you will not find much here. Sorry bout that! 😊
 
-- 🔭 I’m currently **looking for a job**
-- 🌱 I’m currently learning **Javascript Frameworks**
-- 💬 Ask me about **random ideas**, 
+- 🔭 I’m currently working as a **Associate Software Developer**
+- 💬 Ask me about **solving problems that nobody has**, 
 - 📫 How to reach me: **try Twitter** 
 - ⚡ Fun fact: **I'm suprisingly good at rhythm games.**
